@@ -1,0 +1,3 @@
+2025-01-25 20:23:17,012 - mobilenet_v2 - INFO - Epoch [1/50] Train Loss: 0.4128 Train Acc: 83.78% Val Loss: 0.5406 Val Acc: 87.50%
+2025-01-25 20:24:43,110 - mobilenet_v2 - INFO - Epoch [2/50] Train Loss: 0.2801 Train Acc: 86.71% Val Loss: 1.2755 Val Acc: 86.46%
+2025-01-25 20:26:25,211 - mobilenet_v2 - INFO - Epoch [3/50] Train Loss: 0.2510 Train Acc: 87.39% Val Loss: 0.4113 Val Acc: 87.50%
